@@ -5,7 +5,17 @@
 Virtual News Paper is an iOS mobile application integrated with Augmented Reality technology. This mobile application converts a two-dimensional static newspaper into three-dimensional virtual paper with ultimate visualisation in AR.
 
 ## Clips 
-<img src="https://github.com/Kedar-Pandya/Pairing/assets/64677824/21420cf1-5253-4f45-89c9-a539e15b2a45" height ="448" width = "207">
+<img src="https://github.com/Kedar-Pandya/Virtual-News-Paper/assets/64677824/85b097cc-8adf-4a15-b53d-7f0c0c3cd451" height ="448" width = "207">
+<img src="https://github.com/Kedar-Pandya/Virtual-News-Paper/assets/64677824/13464a72-9451-4b02-aad5-eda7cf235166" height ="448" width = "207">
+<img src="https://github.com/Kedar-Pandya/Virtual-News-Paper/assets/64677824/77d3dcb7-370b-48a8-a10d-705e70664652" height ="448" width = "207">
+<img src="https://github.com/Kedar-Pandya/Virtual-News-Paper/assets/64677824/f7d5deb1-9194-4057-9c54-1833616df4e3" height ="448" width = "207">
+<img src="https://github.com/Kedar-Pandya/Virtual-News-Paper/assets/64677824/f4b5ceeb-d1f3-464a-a107-97a6ee8357fb" height ="448" width = "207">
+<img src="https://github.com/Kedar-Pandya/Virtual-News-Paper/assets/64677824/f9363d3c-57c5-4f47-a6ee-8aa0698690e5" height ="448" width = "207">
+<img src="https://github.com/Kedar-Pandya/Virtual-News-Paper/assets/64677824/253fa737-8f46-438d-9d91-8711491bc9af" height ="448" width = "207">
+<img src="https://github.com/Kedar-Pandya/Virtual-News-Paper/assets/64677824/f49bba47-7b02-48e9-a9a5-8c33dc6dcb07" height ="448" width = "207">
+<img src="https://github.com/Kedar-Pandya/Virtual-News-Paper/assets/64677824/1df975f3-7f9f-4513-90ef-1654aea1a9dc" height ="448" width = "207">
+<img src="https://github.com/Kedar-Pandya/Virtual-News-Paper/assets/64677824/73339856-1686-4d6a-9826-8918958c7a3b" height ="448" width = "207">
+<img src="https://github.com/Kedar-Pandya/Virtual-News-Paper/assets/64677824/cdbe14ab-a434-4152-aad9-ae302dadeace" height ="448" width = "207">
 
 
 ## Demonstration of an AR Feature
